@@ -1,6 +1,6 @@
-# The _Itty Bitty_ Committee
+# The _itty bitty_ Committee
 
-## Itty Bitty
+## itty-bitty
 
 ### Requirements
 
